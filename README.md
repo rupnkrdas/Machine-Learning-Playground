@@ -7,6 +7,7 @@ This repository serves as a central hub for my learning journey. It contains var
 ## Topics
 
 - [01_Intro_to_Pandas](01_Intro_to_Pandas)
+- [02_Exploratory_Data_Analysis_with_Pandas](02_Exploratory_Data_Analysis_with_Pandas)
 
 ## Getting Started
 
